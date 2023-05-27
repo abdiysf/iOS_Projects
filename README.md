@@ -8,6 +8,10 @@ The main highlight of the Little Lemon Restaurant App is its extensive menu cata
 
 Overall, the Little Lemon Restaurant App brings convenience and efficiency to the dining experience by allowing users to register, browse the restaurant's menu, and search for specific menu items. With its user-friendly interface and powerful features, the app aims to provide a delightful and streamlined digital platform for users .
 
+# WireFrame Image
+![wireFrame](https://github.com/abdiysf/iOS_Projects/assets/111193602/a43f5901-94a6-49fa-9c40-4a31d17c7cee)
+
+
 # SCREENSHOTS
 
 
