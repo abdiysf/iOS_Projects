@@ -10,4 +10,5 @@ Overall, the Little Lemon Restaurant App brings convenience and efficiency to th
 
 # SCREENSHOTS
 
-![Onboarding](https://github.com/abdiysf/iOS_Projects/assets/111193602/c4013c18-3391-4c53-8609-bfda331d79d9) ![MenuView](https://github.com/abdiysf/iOS_Projects/assets/111193602/2f5f1746-7301-486b-b60a-1075aa0717ed) ![Profile](https://github.com/abdiysf/iOS_Projects/assets/111193602/9b534b49-e7d7-4800-8d7e-2d29edd17338)
+
+![Project screenshot](https://github.com/abdiysf/iOS_Projects/assets/111193602/9eed58ed-607f-4935-b666-5c7f08e69161)
